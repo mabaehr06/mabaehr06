@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## 👋
 
-## Repositories I've done:
+### Repositories I've done:
 - **[Sep-Nov 2025 | Portfolio Personnel](https://github.com/mabaehr06/mabaehr06.github.io)**
 - **[Sep-Dec 2025 | Rocket Web Stats](https://github.com/mabaehr06/RocketWebStats)**
 
-## Contact me via:
+### Contact me via:
 - LinkedIn : https://www.linkedin.com/in/marcalexandre-baehr/
 - Email : **marc-alexandre.baehr@epitech.eu**
